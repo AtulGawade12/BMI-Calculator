@@ -1,0 +1,48 @@
+
+body{
+background-color: rgb(197, 68, 197);
+}
+.container{
+    height: 400px;
+    width: 350px;
+    background-color: black;
+    color: rgb(223, 36, 22);
+    display: block;
+    margin: 50px auto;
+    padding: 20px;
+    box-shadow: 10px 10px 10px rgb(170, 18, 18);
+    border-radius: 25px;
+}
+.btn{
+    margin: 40px auto;
+    display: block;
+    border-radius: 15px;
+    padding: 10px;
+    font-weight: 900;
+    cursor: pointer;
+    background-color: rgb(20, 20, 20);
+    color: white;
+}
+.btn:hover{
+    background-color: red;
+    color: rgb(12, 12, 12);
+}
+.result{
+    margin: 40px ;
+    text-align: center;
+}
+input{
+    width: 90%;
+    padding:5px;
+    border-radius: 8px;
+}
+h1{
+    text-align: center;
+}
+p{
+    padding-left: 5px;
+    margin-top: 40px;
+    color: yellow;
+}
+   
+ 
